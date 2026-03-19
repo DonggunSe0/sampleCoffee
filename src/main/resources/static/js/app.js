@@ -187,6 +187,7 @@ async function order() {
     }
 }
 
+
 document.addEventListener("DOMContentLoaded", async () => {
     console.log("DOMContentLoaded");
     await loadProducts();
